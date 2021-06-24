@@ -1,0 +1,9 @@
+.composite_addon_step_template{
+  display: flex;
+  .composite_addon-template-left,.composite_addon-template-right{
+    width: 200px;
+  }
+  .composite_addon-template-center{
+    width: calc(100% - 400px);
+  }
+}

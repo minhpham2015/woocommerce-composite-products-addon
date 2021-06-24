@@ -1,1 +1,1 @@
-# woocommerce-composite-products-addon
+# composite-products-addon
